@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="C22BCF0">#22BCF0</color>
+    <color name="black">#000000</color>
+    <color name="divider_color">#E2E1D7</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">OnTheWay</string>
+    <string name="calculate">计算</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="social">消息</string>
+    <string name="tab_string1">首页</string>
+    <string name="tab_string2">产品</string>
+    <string name="tab_string4">我</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/divider_height</item>
+        <item name="android:background">@color/divider_color</item>
+    </style>
+</resources>

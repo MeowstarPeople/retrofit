@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">OnTheWay</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_string1">首页</string>
+    <string name="tab_string2">产品</string>
+    <string name="social">消息</string>
+    <string name="tab_string4">我</string>
+    <string name="calculate">计算</string>
+</resources>

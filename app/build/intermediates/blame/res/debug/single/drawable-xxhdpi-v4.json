@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_home.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\icon_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_friend.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\icon_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_search.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\error.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_discover.png",
+        "source": "C:\\Users\\Yong\\Desktop\\retrofit\\app\\src\\main\\res\\drawable-xxhdpi\\icon_discover.png"
+    }
+]
